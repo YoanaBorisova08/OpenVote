@@ -158,7 +158,7 @@ git clone https://github.com/YoanaBorisova08/OpenVote.git
 ```
 ### 2️⃣ Import the provided SQL file into MySQL.
 
-### 3️⃣Configure database connection in the project settings.
+### 3️⃣ Configure database connection in the project settings.
 
 ### 4️⃣ Run the project using XAMPP:
 
