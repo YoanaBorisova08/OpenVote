@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  
+  <!-- Фон -->
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2DB688"></stop>
+      <stop offset="100%" stop-color="#14532D"></stop>
+    </linearGradient>
+  </defs>
+
+  <rect width="200" height="200" rx="30" fill="url(#grad)"></rect>
+
+  <!-- Балон за мнение -->
+  <path d="M50 60 
+           Q50 40 70 40 
+           L130 40 
+           Q150 40 150 60 
+           L150 100 
+           Q150 120 130 120 
+           L90 120 
+           L70 140 
+           L75 120 
+           Q50 120 50 100 Z" fill="white"></path>
+
+  <!-- Отметка -->
+  <path d="M80 80 L95 95 L120 70" stroke="#2DB688" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"></path>
+
+</svg>
