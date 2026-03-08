@@ -1,5 +1,6 @@
 # 🗳 Open Vote
 ### Web Platform for Publishing Suggestions and Voting
+[Link to the site](https://open-vote.yoanaborisova.com/)
 
 ---
 
